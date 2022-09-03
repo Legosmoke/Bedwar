@@ -241,7 +241,7 @@ local HostCrasher = LIB("LegoSmoke", {
 	["HoverText"] = "Must be host, Host Lagger"
 })
 local SlowAutoWin = LIB("LegoSmoke", {
-	["Name"]  = "Auto Win",
+	["Name"]  = "Slow Auto Win",
 	["Function"] = function(callback)
 		if callback then
 			pcall(function()
@@ -256,7 +256,7 @@ local SlowAutoWin = LIB("LegoSmoke", {
 		else
 			pcall(function()
 				ScriptSettings.SlowAutoWin = false
-				infonotify("Auto Win", "Failed to undo changes", "5")
+				infonotify("Auto Win", "must leave lol", "5")
 			end)
 		end
 	end,
