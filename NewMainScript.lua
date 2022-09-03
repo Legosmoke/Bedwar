@@ -182,7 +182,6 @@ local selfdestructsave = coroutine.create(function()
 	end
 end)
 local GUI = GuiLibrary.CreateMainWindow()
-local GUI = GuiLibrary.CreateMainWindow()
 local Combat = GuiLibrary.CreateWindow({
 	["Name"] = "Combat", 
 	["Icon"] = "vape/assets/CombatIcon.png", 
