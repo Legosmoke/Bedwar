@@ -62,3 +62,12 @@ local HostPanel = LIB("Private", {
 	["Default"] = false,
 	["HoverText"] = "For Skywars"
 })
+local HostPanel = LIB("Private", {
+	["Name"]  = "Inf Reach",
+	["Function"] = function(callback)
+		if callback then
+		end
+	end,
+	["Default"] = false,
+	["HoverText"] = "For Skywars"
+})
