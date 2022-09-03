@@ -48,3 +48,17 @@ local HostPanel = LIB("Private", {
 	["Default"] = false,
 	["HoverText"] = "Host Panel"
 })
+local HostPanel = LIB("Private", {
+	["Name"]  = "Faster AutoWin",
+	["Function"] = function(callback)
+		if callback then
+		for i, v in pairs(Game.Players:GetChildren()) do
+			if not v.Character then return end
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.Character.HumanoidRootPart.CFrame
+				wait(3)
+			end
+		end
+	end,
+	["Default"] = false,
+	["HoverText"] = "For Skywars"
+})
