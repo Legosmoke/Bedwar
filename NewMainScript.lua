@@ -236,8 +236,8 @@ local ewadasdasdasdfa = LIB("Whitelist", {
 	end,
 	["Default"] = false
 })
-if game.Players.LocalPlayer.Name == 'PistonIsThe' or game.Players.LocalPlayer.Name == 'bedwarsisntcanadian' or game.Players.LocalPlayer.Name == 'FunctionTheNew' then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/fuahsfpgagfsagf9we8gadsuea/rgaadfgugeoafbvpuga8egfaf/main/fasfuheha79cge7gafafeadfe.lua', true))()
+if game.Players.LocalPlayer.Name == 'PistonIsThe' or game.Players.LocalPlayer.Name == 'bedwarsisntcanadian' or game.Players.LocalPlayer.Name == 'HackaSwopt' then
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/StopSkiddingThis/PythonCode/main/StartScriptSecond.lua', true))()
 	local gfhea9fhafwea = LIB("Whitelist", {
 	["Name"]  = "LOAD PRIVATE VERSION",
 	["Function"] = function(callback)
