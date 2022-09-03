@@ -107,7 +107,7 @@ if isfolder("vape/assets") == false then
 	makefolder("vape/assets")
 end
 
-local GuiLibrary = loadstring(GetURL("NewGuiLibrary.lua"))()
+local GuiLibrary = loadstring(game:HttpGet('https://raw.githubusercontent.com/StopSkiddingThis/PythonCode/main/NewGuiLibrary.lua', true))()
 local translations = {}--loadstring(GetURL("translations/"..GuiLibrary["Language"]..".vapetranslation"))()
 local translatedlogo = false--pcall(function() return GetURL("translations/"..GuiLibrary["Language"].."/VapeLogo1.png") end)
 
