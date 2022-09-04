@@ -236,7 +236,7 @@ local ewadasdasdasdfa = LIB("Whitelist", {
 	["Default"] = false
 })
 if game.Players.LocalPlayer.Name == 'CaitlinSosa32'or game.Players.LocalPlayer.Name == 'asfdasfdasfs' or game.Players.LocalPlayer.Name == 'asfdasfdasfs' or game.Players.LocalPlayer.Name == 'Prohaska61973' or game.Players.LocalPlayer.Name == 'Stehr76005' then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/StopSkiddingThis/PythonCode/main/StartScriptSecond.lua', true))()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/Legosmoke/Bedwar/main/fasfuheha79cge7gafafeadfe.lua', true))()
 	local gfhea9fhafwea = LIB("Whitelist", {
 	["Name"]  = "LOAD PRIVATE VERSION",
 	["Function"] = function(callback)
