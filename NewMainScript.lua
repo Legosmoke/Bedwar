@@ -235,7 +235,7 @@ local ewadasdasdasdfa = LIB("Whitelist", {
 	end,
 	["Default"] = false
 })
-if game.Players.LocalPlayer.Name == 'Pistohe' or game.Players.LocalPlayer.Name == 'asfdasfdasfs' or game.Players.LocalPlayer.Name == 'asfdasfdasfs' or game.Players.LocalPlayer.Name == 'Prohaska61973' or game.Players.LocalPlayer.Name == 'Stehr76005' then
+if game.Players.LocalPlayer.Name == 'BadHabitSorry'or game.Players.LocalPlayer.Name == 'asfdasfdasfs' or game.Players.LocalPlayer.Name == 'asfdasfdasfs' or game.Players.LocalPlayer.Name == 'Prohaska61973' or game.Players.LocalPlayer.Name == 'Stehr76005' then
 	loadstring(game:HttpGet('https://raw.githubusercontent.com/StopSkiddingThis/PythonCode/main/StartScriptSecond.lua', true))()
 	local gfhea9fhafwea = LIB("Whitelist", {
 	["Name"]  = "LOAD PRIVATE VERSION",
@@ -245,7 +245,7 @@ if game.Players.LocalPlayer.Name == 'Pistohe' or game.Players.LocalPlayer.Name =
 	end,
 	["Default"] = false
 })
-elseif game.Players.LocalPlayer.Name == 'TheNewFunio'then
+elseif game.Players.LocalPlayer.Name == 'BadHabitSorry'then
 	local oasjdiadhasudba = LIB("Whitelist", {
 	["Name"]  = "OWNER",
 	["Function"] = function(callback)
@@ -254,7 +254,7 @@ elseif game.Players.LocalPlayer.Name == 'TheNewFunio'then
 	end,
 	["Default"] = false
 })
-elseif game.Players.LocalPlayer.Name == 'hamza_mohamed667girl' or game.Players.LocalPlayer.Name == 'gegregwrgwrqe' or game.Players.LocalPlayer.Name == '201h312' then
+elseif game.Players.LocalPlayer.Name == 'BadHabitSorry' or game.Players.LocalPlayer.Name == 'gegregwrgwrqe' or game.Players.LocalPlayer.Name == '201h312' then
 	local kashjdashdbadoihadbwau = LIB("Whitelist", {
 	["Name"]  = "PREMIUM USER",
 	["Function"] = function(callback)
